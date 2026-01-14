@@ -2,7 +2,7 @@ from elevenlabs.client import ElevenLabs
 from elevenlabs.play import play
 
 client = ElevenLabs(
-    api_key="sk_57faab0b8d2c355f462ab753f9fc2d74cbe1bf0dd4c3683b" #os.environ["ELEVENLABS_API_KEY"]
+    api_key="sk_d0d39db254c401b75842b0d5a43f5427208a8170254b28a2" #os.environ["ELEVENLABS_API_KEY"]
 )
 
 def listen():
